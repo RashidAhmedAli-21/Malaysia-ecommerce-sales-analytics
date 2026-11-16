@@ -1,0 +1,30 @@
+product_id,product_name,category_name,list_price,unit_cost
+1,Wireless Earbuds,Electronics,129.00,84.97
+2,Power Bank 20000mAh,Electronics,89.00,49.33
+3,Smartwatch,Electronics,349.00,208.27
+4,Bluetooth Speaker,Electronics,159.00,93.48
+5,USB-C Charger 65W,Electronics,69.00,46.59
+6,Mechanical Keyboard,Electronics,229.00,152.29
+7,Baju Kurung Set,Fashion,119.00,83.50
+8,Men's Batik Shirt,Fashion,89.00,50.27
+9,Sneakers,Fashion,199.00,123.72
+10,Tudung Bawal,Fashion,35.00,19.43
+11,Denim Jeans,Fashion,109.00,64.00
+22,Basmati Rice 5kg,Groceries,38.00,25.41
+23,Coffee 3-in-1 (40 sachets),Groceries,26.00,15.80
+24,Cooking Oil 5L,Groceries,32.00,18.45
+25,Instant Noodles (30 pack),Groceries,29.00,20.67
+17,Sunscreen SPF50,Health & Beauty,45.00,26.44
+18,Facial Cleanser,Health & Beauty,32.00,20.81
+19,Vitamin C 1000mg,Health & Beauty,55.00,37.82
+20,Hair Dryer,Health & Beauty,89.00,49.05
+21,Perfume 50ml,Health & Beauty,149.00,102.36
+12,Rice Cooker 1.8L,Home & Living,159.00,101.11
+13,Air Fryer 4L,Home & Living,239.00,132.53
+14,Bedsheet Set,Home & Living,99.00,57.80
+15,Standing Fan,Home & Living,129.00,85.20
+16,Cookware Set,Home & Living,189.00,121.46
+26,Yoga Mat,Sports & Outdoor,59.00,35.83
+27,Badminton Racket,Sports & Outdoor,179.00,101.27
+28,Dumbbell Set 10kg,Sports & Outdoor,129.00,73.07
+29,Camping Tent 4P,Sports & Outdoor,259.00,179.77

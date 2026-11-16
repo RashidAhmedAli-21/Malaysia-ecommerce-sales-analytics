@@ -1,0 +1,30 @@
+product_id,product_name,category_id,unit_price,unit_cost
+1,Wireless Earbuds,1,129.0,84.97
+2,Power Bank 20000mAh,1,89.0,49.33
+3,Smartwatch,1,349.0,208.27
+4,Bluetooth Speaker,1,159.0,93.48
+5,USB-C Charger 65W,1,69.0,46.59
+6,Mechanical Keyboard,1,229.0,152.29
+7,Baju Kurung Set,2,119.0,83.5
+8,Men's Batik Shirt,2,89.0,50.27
+9,Sneakers,2,199.0,123.72
+10,Tudung Bawal,2,35.0,19.43
+11,Denim Jeans,2,109.0,64.0
+12,Rice Cooker 1.8L,3,159.0,101.11
+13,Air Fryer 4L,3,239.0,132.53
+14,Bedsheet Set,3,99.0,57.8
+15,Standing Fan,3,129.0,85.2
+16,Cookware Set,3,189.0,121.46
+17,Sunscreen SPF50,4,45.0,26.44
+18,Facial Cleanser,4,32.0,20.81
+19,Vitamin C 1000mg,4,55.0,37.82
+20,Hair Dryer,4,89.0,49.05
+21,Perfume 50ml,4,149.0,102.36
+22,Basmati Rice 5kg,5,38.0,25.41
+23,Coffee 3-in-1 (40 sachets),5,26.0,15.8
+24,Cooking Oil 5L,5,32.0,18.45
+25,Instant Noodles (30 pack),5,29.0,20.67
+26,Yoga Mat,6,59.0,35.83
+27,Badminton Racket,6,179.0,101.27
+28,Dumbbell Set 10kg,6,129.0,73.07
+29,Camping Tent 4P,6,259.0,179.77
